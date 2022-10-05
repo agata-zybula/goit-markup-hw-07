@@ -23,6 +23,11 @@
   &--background {
     background: var(--buttonbackground);
   }
+
+  &--center {
+    align-items: center;
+    justify-content: center;
+  }
 }
 
 .title {
